@@ -61,8 +61,13 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
