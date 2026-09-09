@@ -5,17 +5,12 @@ import re
 
 START_DATE = datetime(2026, 7, 30).date()
 
-repo = Path(".")
-progress_file = repo / "DAILY_PROGRESS.md"
-
-# Git history se commits ki dates aur changed files nikalo
 log = subprocess.check_output(
     ["git", "log", "--format=%ad", "--date=short", "--name-only"],
     text=True
 )
 
 days = {}
-
 current_date = None
 
 for line in log.splitlines():
@@ -25,10 +20,6 @@ for line in log.splitlines():
         current_date = datetime.strptime(line, "%Y-%m-%d").date()
 
     elif line and current_date and current_date >= START_DATE:
-        # Sirf LeetCode problem folders
-        if "/" not in line and "\\" not in line:
-            continue
-
         parts = Path(line).parts
 
         if len(parts) < 2:
@@ -41,7 +32,6 @@ for line in log.splitlines():
 
         days.setdefault(current_date, set()).add(folder)
 
-# Sirf actual solving dates
 dates = sorted(days)
 
 output = ["# 📅 LeetCode Daily Progress", ""]
@@ -56,4 +46,7 @@ for index, date in enumerate(dates, start=1):
 
     output.append("")
 
-progress_file.write_text("\n".join(output), encoding="utf-8")
+Path("DAILY_PROGRESS.md").write_text(
+    "\n".join(output),
+    encoding="utf-8"
+)
