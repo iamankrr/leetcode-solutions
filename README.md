@@ -30,7 +30,6 @@ I have recently started solving LeetCode problems and will keep updating this re
 
 Solutions will be organized by topics such as:
 
-```
 Arrays
 Strings
 LinkedList
@@ -38,7 +37,6 @@ Trees
 Graphs
 DynamicProgramming
 Greedy
-```
 
 ---
 
