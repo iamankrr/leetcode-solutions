@@ -2,65 +2,71 @@
 
 ## Day 1 — 30 July 2026
 
-- [x] 9. Palindrome Number
+- [x] [9-palindrome-number](9-palindrome-number) — Palindrome Number
 
 ## Day 2 — 12 August 2026
 
-- [x] 125. Valid Palindrome
+- [x] [125-valid-palindrome](125-valid-palindrome) — Valid Palindrome
 
 ## Day 3 — 13 August 2026
 
-- [x] 509. Fibonacci Number
+- [x] [1013-fibonacci-number](1013-fibonacci-number) — Fibonacci Number
 
 ## Day 4 — 19 August 2026
 
-- [x] 136. Single Number
+- [x] [136-single-number](136-single-number) — Single Number
 
 ## Day 5 — 20 August 2026
 
-- [x] 53. Maximum Subarray
+- [x] [53-maximum-subarray](53-maximum-subarray) — Maximum Subarray
 
-## Day 6 — 25 August 2026
+## Day 6 — 21 August 2026
 
-- [x] 1. Two Sum
-- [x] 169. Majority Element
+- [x] [169-majority-element](169-majority-element) — Majority Element
 
-## Day 7 — 26 August 2026
+## Day 7 — 23 August 2026
 
-- [x] 50. Pow(x, n)
+- [x] [1-two-sum](1-two-sum) — Two Sum
 
-## Day 8 — 28 August 2026
+## Day 8 — 25 August 2026
 
-- [x] 1929. Concatenation of Array
+- [x] [169-majority-element](169-majority-element) — Majority Element
 
-## Day 9 — 2 September 2026
+## Day 9 — 26 August 2026
 
-- [x] 238. Product of Array Except Self
-- [x] 11. Container With Most Water
+- [x] [50-powx-n](50-powx-n) — Powx N
 
-## Day 10 — 4 September 2026
+## Day 10 — 28 August 2026
 
-- [x] 704. Binary Search
-- [x] 1672. Richest Customer Wealth
+- [x] [2058-concatenation-of-array](2058-concatenation-of-array) — Concatenation Of Array
 
-## Day 11 — 5 September 2026
+## Day 11 — 02 September 2026
 
-- [x] 33. Search in Rotated Sorted Array
+- [x] [11-container-with-most-water](11-container-with-most-water) — Container With Most Water
+- [x] [238-product-of-array-except-self](238-product-of-array-except-self) — Product Of Array Except Self
 
-## Day 12 — 6 September 2026
+## Day 12 — 04 September 2026
 
-- [x] 977. Squares of a Sorted Array
-- [x] 852. Peak Index in a Mountain Array
+- [x] [1791-richest-customer-wealth](1791-richest-customer-wealth) — Richest Customer Wealth
 
-## Day 13 — 7 September 2026
+## Day 13 — 05 September 2026
 
-- [x] 540. Single Element in a Sorted Array
+- [x] [33-search-in-rotated-sorted-array](33-search-in-rotated-sorted-array) — Search In Rotated Sorted Array
 
-## Day 14 — 8 September 2026
+## Day 14 — 06 September 2026
 
-- [x] 69. Sqrt(x)
+- [x] [1019-squares-of-a-sorted-array](1019-squares-of-a-sorted-array) — Squares Of A Sorted Array
+- [x] [882-peak-index-in-a-mountain-array](882-peak-index-in-a-mountain-array) — Peak Index In A Mountain Array
 
-## Day 15 — 9 September 2026
+## Day 15 — 07 September 2026
 
-- [x] 153. Find Minimum in Rotated Sorted Array
-- [x] 34. Find First and Last Position of Element in Sorted Array
+- [x] [540-single-element-in-a-sorted-array](540-single-element-in-a-sorted-array) — Single Element In A Sorted Array
+
+## Day 16 — 08 September 2026
+
+- [x] [0069-sqrtx](0069-sqrtx) — Sqrtx
+
+## Day 17 — 09 September 2026
+
+- [x] [0034-find-first-and-last-position-of-element-in-sorted-array](0034-find-first-and-last-position-of-element-in-sorted-array) — Find First And Last Position Of Element In Sorted Array
+- [x] [0153-find-minimum-in-rotated-sorted-array](0153-find-minimum-in-rotated-sorted-array) — Find Minimum In Rotated Sorted Array
