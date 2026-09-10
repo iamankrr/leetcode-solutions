@@ -93,4 +93,4 @@
 - [x] [0153-find-minimum-in-rotated-sorted-array](0153-find-minimum-in-rotated-sorted-array) — Find Minimum In Rotated Sorted Array
 
 ## Day 23 — 10 September 2026
-- [x] - [0167-two-sum-ii-input-array-is-sorted] (0167-two-sum-ii-input-array-is-sorted) - Two Sum II
+- [x] - [0167-two-sum-ii-input-array-is-sorted](0167-two-sum-ii-input-array-is-sorted) - Two Sum II
