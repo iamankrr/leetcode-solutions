@@ -1,0 +1,43 @@
+name: Sync Daily Progress
+
+on:
+  push:
+    paths:
+      - "DAILY_PROGRESS.md"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Checkout destination repo
+        uses: actions/checkout@v4
+        with:
+          repository: iamankrr/dsa-journey
+          token: ${{ secrets.SYNC_TOKEN }}
+          path: destination
+
+      - name: Copy DAILY_PROGRESS.md
+        run: |
+          cp DAILY_PROGRESS.md destination/DAILY_PROGRESS.md
+
+      - name: Commit and push
+        run: |
+          cd destination
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add DAILY_PROGRESS.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to sync"
+            exit 0
+          fi
+
+          git commit -m "chore: sync DAILY_PROGRESS.md"
+          git push
