@@ -71,11 +71,25 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamankrr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamankrr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
