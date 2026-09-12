@@ -55,6 +55,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+| [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
