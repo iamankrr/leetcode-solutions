@@ -115,14 +115,16 @@
 ## Day 28 — 15 September 2026
 
 - [x] [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array) - Remove-duplicates-from-sorted-array
+- [x] [0080-remove-duplicates-from-sorted-array-ii](0080-remove-duplicates-from-sorted-array-ii) - Remove-duplicates-from-sorted-array-ii
 
 ## Day 29 — 16 September 2026
 
-- [x] [0080-remove-duplicates-from-sorted-array-ii](0080-remove-duplicates-from-sorted-array-ii) - Remove-duplicates-from-sorted-array-ii
+- [x] [0015-3sum](0015-3sum) - 3sum
 
 ## Day 30 — 17 September 2026
 
 - [x] [0015-3sum](0015-3sum) - 3sum
+- [x] [0485-max-consecutive-ones](0485-max-consecutive-ones) - Max-consecutive-ones
 
 ## Day 31 — 18 September 2026
 
