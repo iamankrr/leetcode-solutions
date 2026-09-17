@@ -123,7 +123,6 @@
 
 ## Day 30 — 17 September 2026
 
-- [x] [0015-3sum](0015-3sum) - 3sum
 - [x] [0485-max-consecutive-ones](0485-max-consecutive-ones) - Max-consecutive-ones
 
 ## Day 31 — 18 September 2026
