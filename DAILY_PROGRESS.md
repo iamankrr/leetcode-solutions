@@ -93,4 +93,38 @@
 - [x] [0153-find-minimum-in-rotated-sorted-array](0153-find-minimum-in-rotated-sorted-array) — Find Minimum In Rotated Sorted Array
 
 ## Day 23 — 10 September 2026
-- [x] - [0167-two-sum-ii-input-array-is-sorted](0167-two-sum-ii-input-array-is-sorted) - Two Sum II
+
+- [x] [0167-two-sum-ii-input-array-is-sorted](0167-two-sum-ii-input-array-is-sorted) - Two Sum II
+
+## Day 24 — 11 September 2026
+
+- [x] [0075-sort-colors](0075-sort-colors) - Sort-colors
+
+## Day 25 — 12 September 2026
+
+- [x] [0283-move-zeroes](0283-move-zeroes) - Move-zeroes
+
+## Day 26 — 13 September 2026
+
+- [x] [3870-count-commas-in-range](3870-count-commas-in-range) - Count-commas-in-range
+
+## Day 27 — 14 September 2026
+
+- [x] [0643-maximum-average-subarray-i](0643-maximum-average-subarray-i) - Maximum-average-subarray-I
+
+## Day 28 — 15 September 2026
+
+- [x] [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array) - Remove-duplicates-from-sorted-array
+
+## Day 29 — 16 September 2026
+
+- [x] [0080-remove-duplicates-from-sorted-array-ii](0080-remove-duplicates-from-sorted-array-ii) - Remove-duplicates-from-sorted-array-ii
+
+## Day 30 — 17 September 2026
+
+- [x] [0015-3sum](0015-3sum) - 3sum
+
+## Day 31 — 18 September 2026
+
+- [x] []()
+
