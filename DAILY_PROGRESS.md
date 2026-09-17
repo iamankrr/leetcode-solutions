@@ -128,5 +128,5 @@
 
 ## Day 31 — 18 September 2026
 
-- [x] []()
+- [x] [1004-max-consecutive-ones-iii](1004-max-consecutive-ones-iii) - Max-consecutive-ones-III
 
