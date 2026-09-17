@@ -124,7 +124,7 @@
 ## Day 30 — 17 September 2026
 
 - [x] [0485-max-consecutive-ones](0485-max-consecutive-ones) - Max-consecutive-ones
-- [x] [00001-max-consecutive-bits](00001-max-consecutive-bits) Max-consecutive-bits
+- [x] [00001-max-consecutive-bits](00001-max-consecutive-bits) - Max-consecutive-bits
 
 ## Day 31 — 18 September 2026
 
