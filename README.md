@@ -73,6 +73,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/iamankrr/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/iamankrr/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +99,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/iamankrr/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
