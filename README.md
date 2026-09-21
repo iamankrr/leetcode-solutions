@@ -55,6 +55,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -121,4 +122,8 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankrr/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
