@@ -55,6 +55,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -126,4 +127,12 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
