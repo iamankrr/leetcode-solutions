@@ -130,3 +130,14 @@
 
 - [x] [1004-max-consecutive-ones-iii](1004-max-consecutive-ones-iii) - Max-consecutive-ones-III
 
+## Day 32 — 19 September 2026
+
+- [x] [0088-merge-sorted-array](0088-merge-sorted-array) - Merge-sorted-array
+
+## Day 33 — 21 September 2026
+
+- [x] [2481-minimum-cuts-to-divide-a-circle](2481-minimum-cuts-to-divide-a-circle) - Minimum-cuts-to-divide-a-circle
+
+## Day 34 — 22 September 2026
+
+- [x] [0231-power-of-two](0231-power-of-two) - Power-of-two
