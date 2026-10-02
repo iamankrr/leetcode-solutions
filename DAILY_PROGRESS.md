@@ -141,3 +141,28 @@
 ## Day 34 — 22 September 2026
 
 - [x] [0231-power-of-two](0231-power-of-two) - Power-of-two
+
+## Day 35 — 24 September 2026
+
+- [x] [0031-next-permutation](0031-next-permutation) - Next Permutation
+
+## Day 37 — 26 September 2026
+
+- [x] [0344-reverse-string](0344-reverse-string) - Reverse String
+      
+## Day 38 — 27 September 2026
+
+- [x] [0713-subarray-product-less-than-k](0713-subarray-product-less-than-k) - Subarray Product Less Than K
+
+## Day 39 — 28 September 2026
+
+- [x] [0125-valid-palindrome](0125-valid-palindrome) - Valid Palindrome
+- [x] [1910-remove-all-occurrences-of-a-substring](1910-remove-all-occurrences-of-a-substring) - Remove All Occurrences of a Substring
+
+## Day 40 — 29 September 2026
+
+- [x] [0557-reverse-words-in-a-string-iii](0557-reverse-words-in-a-string-iii) - Reverse Words in a String
+
+## Day 42 — 30 September 2026
+
+- [x] [0443-string-compression](0443-string-compression) - String Compression
