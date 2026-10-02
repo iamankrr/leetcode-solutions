@@ -161,7 +161,7 @@
 
 ## Day 40 — 29 September 2026
 
-- [x] [0557-reverse-words-in-a-string-iii](0557-reverse-words-in-a-string-iii) - Reverse Words in a String
+- [x] [0151-reverse-words-in-a-string](0151-reverse-words-in-a-string) - Reverse Words in a String
 
 ## Day 42 — 30 September 2026
 
