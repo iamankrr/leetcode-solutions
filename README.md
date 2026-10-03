@@ -55,6 +55,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -85,6 +86,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0088-merge-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamankrr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/iamankrr/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamankrr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/iamankrr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -161,4 +163,24 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/iamankrr/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
