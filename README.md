@@ -68,6 +68,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamankrr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankrr/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +91,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamankrr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/iamankrr/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamankrr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/iamankrr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -190,4 +192,9 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
