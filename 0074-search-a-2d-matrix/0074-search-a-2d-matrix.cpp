@@ -25,7 +25,6 @@ public:
         int n = matrix[0].size();     // total no of columns
 
         int startRow = 0, endRow = m-1;
-        int rows = -1; // if not found;
 
         while(startRow <= endRow){
             int midRow = startRow+(endRow - startRow) /2;
