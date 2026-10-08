@@ -84,6 +84,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/iamankrr/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -167,6 +168,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/iamankrr/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
@@ -191,6 +193,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
