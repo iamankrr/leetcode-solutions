@@ -166,3 +166,25 @@
 ## Day 40 — 30 September 2026
 
 - [x] [0443-string-compression](0443-string-compression) - String Compression
+
+## Day 41 — 2 September 2026
+
+- [x] [Learn-Maths-for-DSA](Learn-Maths-for-DSA) - Learn Maths for DSA
+
+## Day 42 — 3 September 2026
+
+- [x] [0204-count-primes](0204-count-primes) - Count primes
+- [x] [0007-reverse-integer](0007-reverse-integer) - Reverse integer
+
+## Day 43 — 4 September 2026
+
+- [x] [9-palindrome-number](9-palindrome-number) - Palindrome Number
+
+## Day 44 — 6 September 2026
+
+- [x] [0074-search-a-2d-matrix](0074-search-a-2d-matrix) - Search a 2D matrix
+- [x] [0240-search-a-2d-matrix-ii](0240-search-a-2d-matrix-ii) - Search a 2D matrix-ii
+
+## Day 44 — 8 September 2026
+
+- [x] [0054-spiral-matrix](0054-spiral-matrix) - Spiral matrix
