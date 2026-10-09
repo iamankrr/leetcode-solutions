@@ -59,6 +59,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankrr/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,4 +208,5 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
