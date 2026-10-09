@@ -79,6 +79,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamankrr/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -200,4 +201,8 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
