@@ -58,6 +58,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0069-sqrtx](https://github.com/iamankrr/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamankrr/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -97,6 +98,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/iamankrr/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamankrr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamankrr/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/iamankrr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -125,6 +127,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0016-3sum-closest](https://github.com/iamankrr/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamankrr/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quicksort
 |  |
 | ------- |
