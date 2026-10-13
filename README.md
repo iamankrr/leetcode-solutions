@@ -99,6 +99,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0240-search-a-2d-matrix-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/iamankrr/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamankrr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamankrr/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/iamankrr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
@@ -148,6 +149,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankrr/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Geometry
@@ -214,5 +216,6 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
