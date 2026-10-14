@@ -105,6 +105,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0704-binary-search](https://github.com/iamankrr/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankrr/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iamankrr/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iamankrr/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
