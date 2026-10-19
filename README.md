@@ -88,6 +88,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/iamankrr/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -116,6 +117,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0018-4sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/iamankrr/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -178,6 +180,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/iamankrr/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -222,4 +225,12 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
