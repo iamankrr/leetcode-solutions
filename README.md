@@ -175,6 +175,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0125-valid-palindrome](https://github.com/iamankrr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/iamankrr/leetcode-solutions/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/iamankrr/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -223,6 +224,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamankrr/leetcode-solutions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/iamankrr/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -233,4 +235,12 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamankrr/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/iamankrr/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
