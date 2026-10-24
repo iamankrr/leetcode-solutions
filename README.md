@@ -59,6 +59,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0204-count-primes](https://github.com/iamankrr/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamankrr/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankrr/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/iamankrr/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2965-find-missing-and-repeated-values](https://github.com/iamankrr/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/iamankrr/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -165,6 +166,7 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankrr/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
