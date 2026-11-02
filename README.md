@@ -96,6 +96,7 @@ LeetCode: https://leetcode.com/iamankrr/
 | [0054-spiral-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/iamankrr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamankrr/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/iamankrr/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamankrr/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankrr/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -168,6 +169,7 @@ LeetCode: https://leetcode.com/iamankrr/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iamankrr/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/iamankrr/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankrr/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -254,4 +256,8 @@ LeetCode: https://leetcode.com/iamankrr/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/iamankrr/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iamankrr/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
